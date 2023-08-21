@@ -20,22 +20,33 @@ A. No. We're hoping to have continuity between the various discussion sessions a
 ## The List
 
 ### Week 1: Why Accelerators?
-1. Computing's Energy Problem
-2. Understanding sources of inefficiency in general-purpose chips
-3. Dark silicon and the end of multicore scaling
+- (1a) Computing's Energy Problem
+- (1b) Understanding sources of inefficiency in general-purpose chips (1a)
+- (1c) Dark silicon and the end of multicore scaling
 
 ### Week 2: Systolic Arrays
-1. Why Systolic Architectures?
-2. **TK**: One of the TPU papers
-3. Programmatic Control of a Compiler for Generating High-performance Spatial Hardware
+- (2a) Why Systolic Architectures?
+- (2b) **TK**: One of the TPU papers (2a)
+- (2c) Programmatic Control of a Compiler for Generating High-performance Spatial Hardware (2a)
 
 ### Week 3: Programming Abstractions
-1. Triggered instructions: A control paradigm for spatially-programmed architectures
-2. Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration
-3. CoRAM: an in-fabric memory architecture for FPGA-based computing
+- (3a) Triggered instructions: A control paradigm for spatially-programmed architectures
+- (3b) Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration
+- (3c) CoRAM: an in-fabric memory architecture for FPGA-based computing
 
 ### Week 4: Architecture Gauntlet
+- (4a) Plasticine: A Reconfigurable Architecture For Parallel Patterns
+- (4b) Capstan: A Vector RDA for Sparsity (*Note: This might overlap with Plasticine's architecture too much*)
+- (4c) **TK**: Low power accelerators like MANIC or RipTide (1b, 1c)
 
 ### Week 5: Accelerator Design Languages
+- (5a) Spatial: a language and compiler for application accelerators
+- (5b) SDC-based modulo scheduling for pipeline synthesis
+- (5c) Revet: A Language and Compiler for Dataflow Threads (4b)
 
-### Week 6
+### Week 6: TK
+
+
+## Notes
+- Maybe a week on features of high-performance architectures like vectorization, SMT, VLIW, GPU design, etc. would be useful as week 1 or 2.
+- A lot of the papers are from Stanford. Maybe room for intellectual diversity here?
