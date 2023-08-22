@@ -45,13 +45,13 @@ A. No. We're hoping to have continuity between the various discussion sessions a
 ### Week 4: Architecture Gauntlet
 - (4a) Plasticine: A Reconfigurable Architecture For Parallel Patterns
 - (4b) Capstan: A Vector RDA for Sparsity (*Note: This might overlap with Plasticine's architecture too much*)
-- (4c) **TK**: Low power accelerators like MANIC or RipTide (1b, 1c)
+- (4c) RipTide: A Programmable, Energy-minimal Dataflow Compiler and Architecture
 
 > *Adrian recommends b/c*: TK
 
 ### Week 5: Accelerator Design Languages
 - (5a) Spatial: a language and compiler for application accelerators
-- (5b) SDC-based modulo scheduling for pipeline synthesis
+- (5b) SDC-based Modulo Scheduling for Pipeline Synthesis
 - (5c) Revet: A Language and Compiler for Dataflow Threads (4b)
 
 > *Adrian recommends b/c*: TK
