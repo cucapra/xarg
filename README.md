@@ -23,15 +23,15 @@ A. No. We're hoping to have continuity between the various discussion sessions a
 
 ### Week 1: Why Accelerators?
 - (1a) Computing's Energy Problem
-- (1b) Understanding sources of inefficiency in general-purpose chips (1a)
+- (1b) Understanding sources of inefficiency in general-purpose chips
 - (1c) Dark silicon and the end of multicore scaling
 
 > *Adrian recommends b/c*: TK
 
 ### Week 2: Systolic Arrays
-- (2a) Why Systolic Architectures?
-- (2b) **TK**: One of the TPU papers (2a)
-- (2c) Programmatic Control of a Compiler for Generating High-performance Spatial Hardware (2a)
+- (2a) [Why Systolic Architectures?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1653825)
+- (2b) [A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3360307)
+- (2c) [Programmatic Control of a Compiler for Generating High-performance Spatial Hardware](https://arxiv.org/pdf/1711.07606.pdf)
 
 > *Adrian recommends b/c*: TK
 
