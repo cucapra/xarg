@@ -2,7 +2,7 @@
 
 This is a 6-week, intensive reading group for getting up to speed with the state of the art in hardware accelerators. The goal is to read **3 related papers** every week and discuss them for an hour.
 
-The discussion lead will create a Google form with questions for each paper *a week in advance* and provide them to the readers with the expectation that readers will fill it out before the group meets.
+The discussion lead will create a Google form with questions for each paper *Friday morning* and provide them to the readers with the expectation that readers will fill it out before the group meets.
 Each week also has a couple of lines on the context from Adrian about why these papers are important, interesting, or fun reads.
 
 ## FAQ
@@ -26,39 +26,30 @@ A. No. We're hoping to have continuity between the various discussion sessions a
 - (1b) Understanding sources of inefficiency in general-purpose chips
 - (1c) Dark silicon and the end of multicore scaling
 
-> *Adrian recommends b/c*: TK
-
 ### Week 2: Systolic Arrays
 - (2a) [Why Systolic Architectures?](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1653825)
 - (2b) [A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3360307)
 - (2c) [Programmatic Control of a Compiler for Generating High-performance Spatial Hardware](https://arxiv.org/pdf/1711.07606.pdf)
-
-> *Adrian recommends b/c*: TK
 
 ### Week 3: Programming Abstractions
 - (3a) Triggered instructions: A control paradigm for spatially-programmed architectures
 - (3b) Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration
 - (3c) CoRAM: an in-fabric memory architecture for FPGA-based computing
 
-> *Adrian recommends b/c*: TK
-
 ### Week 4: Architecture Gauntlet
 - (4a) Plasticine: A Reconfigurable Architecture For Parallel Patterns
 - (4b) Capstan: A Vector RDA for Sparsity (*Note: This might overlap with Plasticine's architecture too much*)
 - (4c) RipTide: A Programmable, Energy-minimal Dataflow Compiler and Architecture
-
-> *Adrian recommends b/c*: TK
 
 ### Week 5: Accelerator Design Languages
 - (5a) Spatial: a language and compiler for application accelerators
 - (5b) SDC-based Modulo Scheduling for Pipeline Synthesis
 - (5c) Revet: A Language and Compiler for Dataflow Threads (4b)
 
-> *Adrian recommends b/c*: TK
-
-### Week 6: TK
-
-> *Adrian recommends b/c*: TK
+### Week 6: GPUs
+- (6a) **TK**
+- (6b) **TK**
+- (6c) **TK**
 
 ## Notes
 - Maybe a week on features of high-performance architectures like vectorization, SMT, VLIW, GPU design, etc. would be useful as week 1 or 2.
