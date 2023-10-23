@@ -47,10 +47,6 @@ A. No. We're hoping to have continuity between the various discussion sessions a
 - (5c) Revet: A Language and Compiler for Dataflow Threads (4b)
 
 ### Week 6: GPUs
-- (6a) **TK**
-- (6b) **TK**
-- (6c) **TK**
-
-## Notes
-- Maybe a week on features of high-performance architectures like vectorization, SMT, VLIW, GPU design, etc. would be useful as week 1 or 2.
-- A lot of the papers are from Stanford. Maybe room for intellectual diversity here?
+- (6a) [Exploiting ILP, TLP, and DLP with the polymorphous TRIPS architecture](https://dl.acm.org/doi/10.1145/859618.859667)
+- (6b) [Compiling for EDGE Architectures](https://www.cs.utexas.edu/users/cart/trips/publications/cgo06.pdf)
+- (6c) [Brook for GPUs: Stream Computing on Graphics Hardware](https://dl.acm.org/doi/abs/10.1145/1015706.1015800)
