@@ -3,17 +3,16 @@
 This is a 6-week, intensive reading group for getting up to speed with the state of the art in hardware accelerators. The goal is to read **3 related papers** every week and discuss them for an hour.
 
 The discussion lead will create a Google form with questions for each paper *Friday morning* and provide them to the readers with the expectation that readers will fill it out before the group meets.
-Each week also has a couple of lines on the context from Adrian about why these papers are important, interesting, or fun reads.
 
 ## FAQ
 
 **Q. Why are we reading 3 papers a week? Isn't that a bit too much?**
 A. There are three reasons:
 1. We want to make paper reading a continuous habit; it is all too easy to ignore in favor of the highest priority deadline.
-2. We want to get rid of any ideas that we can read a full paper an hour before the meeting and have any productive discussions. The goal is to really understand the state of the art in accelerator design and get to the heart of the arguments to identify what is truly important. This can only be done with deep reading.
-3. There is a lot of content to get through, and we want to do it in three weeks.
+2. We want to incentivize people to read papers early; interesting discussions require readings to stew in our minds for a bit. The goal is to really understand the state of the art in accelerator design and identify what is truly important. This can only be done with deep reading.
+3. There is a lot of content to get through, and we want to do it in six weeks.
 
-At the end of the day, we do not want to repeat rote arguments about accelerator design in our PL work; we want to truly understand where they come from, so we can do work that gets to problems that are truly important.
+At the end of the day, we do not want to repeat rote arguments about accelerator design in our PL work; we want to truly understand where they come from, so we can work on problems that matter.
 
 **Q. Can I join for some reading sessions but not others?**
 A. No. We're hoping to have continuity between the various discussion sessions and want to be able to reference ideas of papers we've already read without needing to explain them. If you're interested in some papers, I recommend joining all the sessions so that you can see the ideas build up to the papers you're interested in.
